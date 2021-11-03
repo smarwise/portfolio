@@ -10,7 +10,7 @@ function ImageSection() {
                 <img src={resume} alt=""/>
             </div>
             <div className="right-content">
-                <h4>I am <span>Lorem Ipsum</span></h4>
+                <h4>I am <span>Simbiso Marwise</span></h4>
                 <p className="paragraph">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, natus quas vero enim 
                     praesentium delectus est id fugiat ab libero adipisci recusandae at maxime veritatis! 
